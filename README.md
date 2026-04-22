@@ -1,2 +1,2 @@
-# demo-project-api
-For Testing Api LINKs Post/Get/PUT
+# Demo API
+A simple mock API project for testing REST API endpoints using GET, POST, and PUT methods.
